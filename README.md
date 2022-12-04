@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+LeCodeEtMoi is a website about programming
+
 <!--
 **LeCodeEtMoi/LeCodeEtMoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
